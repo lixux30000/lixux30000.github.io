@@ -4,7 +4,7 @@
   
   
   <entry>
-    <title>(Hexo blog configuration)</title>
+    <title>Hexo blog configuration</title>
     <link href="/Hexo-config/"/>
     <url>/Hexo-config/</url>
     
@@ -48,37 +48,6 @@
       <tag>CS</tag>
       
       <tag>neuroscience</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Cushing&#39;s eponyms</title>
-    <link href="/Cushing-eponym/"/>
-    <url>/Cushing-eponym/</url>
-    
-    <content type="html"><![CDATA[<p>Imagine such scenes:</p><ul><li>After a traffic accident, a patient was sent to the emergency room.  The young intern measured the heart rate. Phew! It’s not fast, even a little slow!</li><li>??<br>In our way studying clinical medicine, we always encounter a name, <em>Cushing</em>. A cranial injury patient came into the emergency room with decreased heart rate.</li></ul><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>medicine</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>medicine</tag>
-      
-      <tag>physiology</tag>
-      
-      <tag>eponym</tag>
-      
-      <tag>history</tag>
       
     </tags>
     
